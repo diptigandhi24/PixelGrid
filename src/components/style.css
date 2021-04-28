@@ -1,0 +1,13 @@
+.square {
+  width: 80px;
+  height: 80px;
+}
+
+.boxWrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow-y: hidden;
+}
